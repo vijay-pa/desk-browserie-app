@@ -1,0 +1,11 @@
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\bin\Debug\Browser_Demo.exe.config
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\bin\Debug\Browser_Demo.exe
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\bin\Debug\Browser_Demo.pdb
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\obj\Debug\Browser_Demo.csprojResolveAssemblyReference.cache
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\obj\Debug\Browser_Demo.Form1.resources
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\obj\Debug\Browser_Demo.Properties.Resources.resources
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\obj\Debug\Browser_Demo.csproj.GenerateResource.Cache
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\obj\Debug\Browser_Demo.csproj.CoreCompileInputs.cache
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\obj\Debug\Browser_Demo.exe
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\obj\Debug\Browser_Demo.pdb
+C:\Users\spandana508\source\repos\Browser_Demo\Browser_Demo\obj\Debug\Form1.resources
